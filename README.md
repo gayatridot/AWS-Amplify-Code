@@ -1,4 +1,4 @@
-# AWS AI for Bharat Workshop Experience
+# AWS AI for Bharat Workshop Experience Build Image Editing Website
 
 Welcome to the **AWS AI for Bharat Workshop** repository! This project showcases hands-on experience with AWS Amplify and AI/ML services as part of the AWS AI for Bharat initiative.
 
@@ -10,7 +10,7 @@ Welcome to the **AWS AI for Bharat Workshop** repository! This project showcases
 
 ## 📌 About This Repository
 
-This repository contains code and resources developed during the **AWS AI for Bharat Workshop**, demonstrating practical implementations of AWS Amplify for building scalable, cloud-enabled applications with AI capabilities.
+This repository contains code and resources for Image Editing App developed during the **AWS AI for Bharat Workshop**, demonstrating practical implementations of AWS Amplify for building scalable, cloud-enabled applications with AI capabilities.
 
 ## 🚀 Technologies Used
 
