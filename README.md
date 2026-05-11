@@ -2,6 +2,12 @@
 
 Welcome to the **AWS AI for Bharat Workshop** repository! This project showcases hands-on experience with AWS Amplify and AI/ML services as part of the AWS AI for Bharat initiative.
 
+## 📸 Screenshots
+
+| Home Screen | Input | Output |
+|-------------|----------|-----------------------|
+| <img src="https://files.catbox.moe/iedi0g.PNG" width="250" height="400"/> | <img src="https://files.catbox.moe/bm69eb.PNG" width="250" height="400"/> | <img src="https://files.catbox.moe/2y7pam.PNG" width="250" height="400"/> |
+
 ## 📌 About This Repository
 
 This repository contains code and resources developed during the **AWS AI for Bharat Workshop**, demonstrating practical implementations of AWS Amplify for building scalable, cloud-enabled applications with AI capabilities.
