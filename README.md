@@ -5,8 +5,8 @@ Welcome to the **AWS AI for Bharat Workshop** repository! This project showcases
 ## 📸 Screenshots
 
 | Home Screen | Input | Output |
-|-------------|----------|-----------------------|
-| <img src="https://files.catbox.moe/iedi0g.PNG" width="400" height="250"/> | <img src="https://files.catbox.moe/bm69eb.PNG" width="400" height="250"/> | <img src="https://files.catbox.moe/2y7pam.PNG" width="400" height="250"/> |
+|-------------|-------|--------|
+| <img src="https://files.catbox.moe/iedi0g.PNG" width="400"/> | <img src="https://files.catbox.moe/bm69eb.PNG" width="400"/> | <img src="https://files.catbox.moe/2y7pam.PNG" width="400"/> |
 
 ## 📌 About This Repository
 
